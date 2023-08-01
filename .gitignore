@@ -11,19 +11,19 @@ __pycache__
 /models/**/*
 /GFPGANv1.3.pth
 /gfpgan/weights/*.pth
-/ui-config.json
+# /ui-config.json
 /outputs
-/config.json
+# /config.json
 /log
 /webui.settings.bat
-/embeddings
-/styles.csv
-/params.txt
-/styles.csv.bak
+# /embeddings
+# /styles.csv
+# /params.txt
+# /styles.csv.bak
 /webui-user.bat
 /webui-user.sh
 /interrogate
-/user.css
+# /user.css
 /.idea
 notification.mp3
 /SwinIR
@@ -33,7 +33,7 @@ notification.mp3
 /test/stdout.txt
 /test/stderr.txt
 /cache.json*
-/config_states/
+# /config_states/
 /node_modules
 /package-lock.json
 /.coverage*
