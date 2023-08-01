@@ -1,3 +1,11 @@
-very beautiful naked 18 year old instagram model on a beach holding umbrella, (full frontal nudity:1.5), facing viewer, (standing:1.1), full body, (a large breasts:1.1), cinematic film still photorealistic, high contrast, 8k HD, (masterpiece:1.1), 
-Negative prompt: badhandv4, logos, brands, icons, text, anime, cartoon, graphic, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured
-Steps: 50, Sampler: Euler a, CFG scale: 7, Seed: 3672514345, Size: 1024x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Version: v1.5.1-1-g47962fe6
+very beautiful naked 18 year old instagram model on a beach, professional portrait,
+photo of a nude woman with long flowing blonde hair,
+nude, landing strip vagina, long necklace, makeup, large breasts, red nipples,
+posing, looking at camera, one arm on her hip, one arm stretched up,
+full body shot,
+on a beach,
+natural lighting,
+from front
+Negative prompt: badhandv4, logos, brands, icons, text, anime, cartoon, graphic, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, panties, watermark, child
+
+Steps: 76, Sampler: Heun, CFG scale: 10.5, Seed: 2424667704, Size: 1024x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Version: v1.5.1-1-g47962fe6
